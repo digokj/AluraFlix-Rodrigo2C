@@ -1,7 +1,7 @@
 # 2C
-repositório da turma 2C
+repositório AluraFlix
 
-# Este é o repositório da turma 2C
+# Este é o repositório da AluraFlix
 
 Sejam todos bem vindos 
 
